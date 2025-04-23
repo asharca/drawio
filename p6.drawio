@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="Page-1" id="9OhKOkV_mPs7GRqaQnFj">
+    <mxGraphModel dx="706" dy="779" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NuPOkmNerUYuCZftRO_D-1" value="用户（摄影师）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-23" value="可用时间&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E5%BE%AE%E4%BF%A1%E7%94%A8%E6%88%B7%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2275%22%20y%3D%22270%22%20width%3D%2290%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="270" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-24" value="用户（客户）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="187.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-25" value="提供" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="262.5" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-1" target="NuPOkmNerUYuCZftRO_D-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="425" as="sourcePoint" />
+            <mxPoint x="395" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-28" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-26">
+          <mxGeometry x="0.2667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-25" target="NuPOkmNerUYuCZftRO_D-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="425" as="sourcePoint" />
+            <mxPoint x="395" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-29" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-27">
+          <mxGeometry x="-0.12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-31" value="预约" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="180" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-32" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-1" target="NuPOkmNerUYuCZftRO_D-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="425" as="sourcePoint" />
+            <mxPoint x="395" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-34" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-32">
+          <mxGeometry x="0.0222" y="-3" relative="1" as="geometry">
+            <mxPoint x="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-33" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-31" target="NuPOkmNerUYuCZftRO_D-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="425" as="sourcePoint" />
+            <mxPoint x="395" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-35" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-33">
+          <mxGeometry x="-0.0286" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-36" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="345" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-37" value="作品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="352.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-38" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-36" target="NuPOkmNerUYuCZftRO_D-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="425" as="sourcePoint" />
+            <mxPoint x="395" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-40" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-38">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-39" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-36" target="NuPOkmNerUYuCZftRO_D-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="425" as="sourcePoint" />
+            <mxPoint x="395" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-41" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-39">
+          <mxGeometry x="-0.0857" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-42" value="归类" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="345" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-43" value="作品分类" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="352.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-44" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-37" target="NuPOkmNerUYuCZftRO_D-42">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="350" as="sourcePoint" />
+            <mxPoint x="395" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-47" value="M" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-44">
+          <mxGeometry y="2" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-45" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NuPOkmNerUYuCZftRO_D-42" target="NuPOkmNerUYuCZftRO_D-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="350" as="sourcePoint" />
+            <mxPoint x="395" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NuPOkmNerUYuCZftRO_D-46" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="NuPOkmNerUYuCZftRO_D-45">
+          <mxGeometry x="-0.12" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
