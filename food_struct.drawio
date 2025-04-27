@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="I2c3vv9add7Q0MTXITJJ">
-    <mxGraphModel dx="705" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1665" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
         <mxCell id="-pq2sLF6zHRyy4oUaqYe-20" value="管&lt;div&gt;理&lt;/div&gt;&lt;div&gt;美&lt;/div&gt;&lt;div&gt;食&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="360" width="40" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="OZz0PycL4Xs699Xblhuw-5" value="其&lt;div&gt;他&lt;/div&gt;&lt;div&gt;系&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="OZz0PycL4Xs699Xblhuw-5" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;系&lt;/span&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;设&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="590" y="360" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="VCXEHoogaVtb-tRKHHuo-1" value="收&lt;div&gt;藏&lt;/div&gt;&lt;div&gt;和&lt;/div&gt;&lt;div&gt;评&lt;/div&gt;&lt;div&gt;论&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
