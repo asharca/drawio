@@ -206,7 +206,7 @@
           <mxGeometry width="640" height="490" as="geometry" />
         </mxCell>
         <mxCell id="z_BVboNfzT4I1Vo-alxG-76" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="ybXJnE_iKAjGF9KhKb8T-1" vertex="1">
-          <mxGeometry x="521.84" y="24.659999999999997" width="40.64" height="45.46" as="geometry" />
+          <mxGeometry x="521.84" y="24.66" width="40.64" height="35.34" as="geometry" />
         </mxCell>
         <mxCell id="ybXJnE_iKAjGF9KhKb8T-39" value="S7706" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ybXJnE_iKAjGF9KhKb8T-1">
           <mxGeometry x="562.4812307692308" y="24.6614285714286" width="59.07692307692308" height="38.57142857142858" as="geometry" />
@@ -1217,7 +1217,7 @@
           <mxGeometry x="545" y="24.442222222222245" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ybXJnE_iKAjGF9KhKb8T-126" value="" style="shape=mxgraph.cisco.switches.atm_fast_gigabit_etherswitch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="ybXJnE_iKAjGF9KhKb8T-111">
-          <mxGeometry x="510" y="17.77" width="40" height="43.34" as="geometry" />
+          <mxGeometry x="500" y="22.21" width="40" height="32.23" as="geometry" />
         </mxCell>
         <mxCell id="ybXJnE_iKAjGF9KhKb8T-129" value="" style="group" vertex="1" connectable="0" parent="ybXJnE_iKAjGF9KhKb8T-111">
           <mxGeometry x="30" y="17.77" width="200" height="38.89" as="geometry" />
